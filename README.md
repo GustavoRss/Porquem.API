@@ -26,7 +26,3 @@ To run the application, you'll need to have .NET Core 3.1 or later installed on 
 We welcome contributions to this project. If you'd like to contribute, please fork the repository and create a new branch for your changes.
 
 When you're ready to submit your changes, create a pull request and we'll review your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
