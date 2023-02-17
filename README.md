@@ -1,7 +1,7 @@
 # PorQuem.API
 
-This is the backend API for the PorQuem project, which is a web application for managing and sharing contact information.
-
+ API do sistema de gestão das campanhas de capacitação de recursos para entidades filantrópicas. Desenvolvido em .NET e banco de dados MySQL.
+ 
 ## Technologies
 
 - MySQL database
@@ -12,6 +12,10 @@ This is the backend API for the PorQuem project, which is a web application for 
 - ImageSharp library
 - Serilog logging library
 - MailKit library for email sending
+
+## Results
+
+To get a demo of the complete application, access: [here](https://www.linkedin.com/feed/update/urn:li:activity:6911041064380329984/)
 
 ## Getting started
 
