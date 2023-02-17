@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PQ.CoreShared</name>
+    </assembly>
+    <members>
+        <member name="T:PQ.CoreShared.ModelViews.NovaEntidade">
+            <summary>
+            Objeto utilizado para inserção de um novo cliente
+            </summary>
+        </member>
+        <member name="P:PQ.CoreShared.ModelViews.NovaEntidade.Nome">
+            <summary>
+            Nome da Entidade
+            </summary>
+            <example>João da Silva</example>
+        </member>
+        <member name="P:PQ.CoreShared.ModelViews.NovaEntidade.DtAbertura">
+            <summary>
+            Data de abertura da entidade
+            </summary>
+            <example>1980-01-01</example>
+            
+        </member>
+        <member name="P:PQ.CoreShared.ModelViews.NovaEntidade.Telefone">
+            <summary>
+            Telefone da entidade
+            </summary>
+            <example>22999999999</example>
+            
+        </member>
+        <member name="P:PQ.CoreShared.ModelViews.NovoDocumento.Url">
+            <summary>
+            Documento da entidade: Certidão Negativa, CNPJ
+            </summary>
+            <example>123456789</example>
+            
+        </member>
+        <member name="P:PQ.CoreShared.ModelViews.NovoEndereco.CEP">
+            <example>75400531</example>
+        </member>
+        <member name="P:PQ.CoreShared.ModelViews.NovoEndereco.Estado">
+            <example>Goiás</example>
+        </member>
+        <member name="P:PQ.CoreShared.ModelViews.NovoEndereco.Cidade">
+            <example>Inhumas</example>
+        </member>
+        <member name="P:PQ.CoreShared.ModelViews.NovoEndereco.Numero">
+            <example>850</example>
+        </member>
+        <member name="P:PQ.CoreShared.ModelViews.NovoEndereco.Logradouro">
+            <example>Rua X</example>
+            
+        </member>
+    </members>
+</doc>

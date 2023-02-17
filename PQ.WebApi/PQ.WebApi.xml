@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PQ.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:PQ.WebApi.Controllers.EntidadesController.Get">
+            <summary>
+            Retorna todas as entidades cadastradas na base.
+            </summary>
+        </member>
+        <member name="M:PQ.WebApi.Controllers.EntidadesController.Get(System.Int32)">
+            <summary>
+            Retorna uma entidade consultada pelo id.
+            </summary>
+            <param name="id" example="123">Id da entidade.</param>
+            <returns></returns>
+            
+        </member>
+        <member name="M:PQ.WebApi.Controllers.EntidadesController.Post(PQ.CoreShared.ModelViews.NovaEntidade)">
+            <summary>
+            Insere uma nova entidade
+            </summary>
+            <param name="novaEntidade"></param>
+            
+        </member>
+        <member name="M:PQ.WebApi.Controllers.EntidadesController.Put(PQ.CoreShared.ModelViews.AlteraEntidade)">
+            <summary>
+            Altera uma entidade
+            </summary>
+            <param name="alteraEntidade"></param>
+            
+        </member>
+        <member name="M:PQ.WebApi.Controllers.EntidadesController.Delete(System.Int32)">
+            <summary>
+            Exclui uma entidade
+            </summary>
+            <param name="id" example="123"></param>
+            <remarks>Ao excluir uma entidade a mesma será removida permanentemente da base</remarks>
+            
+        </member>
+    </members>
+</doc>
